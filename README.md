@@ -13,5 +13,11 @@ An American chain of specialty grocery stores known for its unique private-label
 ## Timestamps
 
 - **Created:** 2026-05-05
-- **Modified:** 2026-05-05
+- **Modified:** 2026-05-16
+
+## Status
+
+Trader Joe's does not publish a public developer portal or API. The retailer is known for deliberately not offering online ordering, third-party delivery integrations, or a loyalty program, and similarly does not expose product, store, or recipe data through a documented public API.
+
+This repository is being tracked for future updates if and when developer documentation becomes available.
 

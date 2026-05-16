@@ -9,9 +9,23 @@ tags:
   - Food & Beverage
 description: 'An American chain of specialty grocery stores known for its unique private-label products, affordable prices, and quirky branding. Operates over 500 stores nationwide with a cult following for its curated selection of food and beverages.'
 created: '2026-05-05'
-modified: '2026-05-05'
+modified: '2026-05-16'
 specificationVersion: '0.19'
 apis: []
 common:
   - type: Website
     url: https://www.traderjoes.com/
+  - type: StoreLocator
+    url: https://locations.traderjoes.com/
+  - type: Recipes
+    url: https://www.traderjoes.com/home/recipes
+  - type: About
+    url: https://www.traderjoes.com/home/about-us
+  - type: Careers
+    url: https://www.traderjoes.com/home/careers
+  - type: ContactUs
+    url: https://www.traderjoes.com/home/contact-us
+maintainers:
+  - FN: API Evangelist
+    email: info@apievangelist.com
+    X: '@apievangelist'
