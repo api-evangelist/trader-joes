@@ -17,6 +17,10 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/trader-joe
 tags:
   - Retail
   - Grocery
+  - Food and Beverage
+tags_raw:
+  - Retail
+  - Grocery
   - Food & Beverage
 description: 'An American chain of specialty grocery stores known for its unique private-label products, affordable prices, and quirky branding. Operates over 500 stores nationwide with a cult following for its curated selection of food and beverages.'
 created: '2026-05-05'
